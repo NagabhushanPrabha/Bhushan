@@ -1,0 +1,13 @@
+
+
+Learn DevOps with the below tools
+
+
+Git/GitHub
+
+1.Jenkins
+2.Docker
+3.Kubernetes
+4.Puppet
+5.Ansible
+6.Chef  etc.,
