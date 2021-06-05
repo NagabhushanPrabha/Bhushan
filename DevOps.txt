@@ -3,8 +3,7 @@
 Learn DevOps with the below tools
 
 
-Git/GitHub
-
+0.Git/GitHub
 1.Jenkins
 2.Docker
 3.Kubernetes
